@@ -6,7 +6,8 @@ Four completely portable functions are provided:
 1) pressEnter (by author), to prompt user to press enter to continue (by author).
 2) clearScreen (with relevant citation), for clearing the screen independent of user's system.
 3) isValid (by author), for input validation. Completely modular.
-4) generateRandNum (by author), for random number generation using a Mersenne Twister. Feel free to adapt those by the author for personal use.
+4) generateRandNum (by author), for random number generation using a Mersenne Twister.
+Feel free to adapt those by the author for personal use.
 
 For future: Animated splash screen....? Static ASCII graphic temporarily in place Should improve input validation for menu selection to get rid of allowance entry of whitespace.
 
